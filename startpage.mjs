@@ -68,4 +68,4 @@ async function parseStartPageResultsForAllPhrases(searchPhrases) {
     }
 }
 
-await ParseStartPage()
+await parseStartPageResultsForAllPhrases(search_phrases)
